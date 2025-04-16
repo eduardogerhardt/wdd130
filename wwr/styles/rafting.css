@@ -287,7 +287,7 @@ table th, table td {
 
 .hero h1 {
   position: absolute;
-  bottom: px;
+  bottom: 250px;
   left: 8px;
   color: white;
   background-color: rgba(0, 0, 0, 0.6);
@@ -298,7 +298,7 @@ table th, table td {
 
 .hero article {
   position: absolute;
-  top: px;
+  top: 250px;
   left: 20px;
   background-color: rgba(255, 255, 255, 0.95);
   padding: 1rem;
